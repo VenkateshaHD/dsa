@@ -26,4 +26,5 @@ class Solution:
 nums = [15, 18,1, 2, 3, 6, 12]
 target = 3
 rotatedArray  = Solution()
+print("Target index ")
 print(rotatedArray.search(nums, target))  # Output: 3
